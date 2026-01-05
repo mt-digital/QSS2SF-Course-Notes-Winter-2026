@@ -1,0 +1,31 @@
+project:
+  type: website
+website:
+  title: "Quantitative Social Science to Shape The Future — Course Notes"
+  navbar:
+    collapse: true
+    # pinned: true
+    search: true
+
+bibliography: 
+  - /Users/mt/workspace/Writing/library.bib
+  - references.bib
+
+format:
+  html:
+    toc: true
+    include-in-header: header.html
+    theme: 
+      light:
+        - theme-light.scss
+        - styles.scss
+      dark:
+        - darkly 
+        - theme-dark.scss
+        - styles.scss
+    fontsize: 1.0em
+    linestretch: 1.2
+    number-sections: true
+    number-depth: 3
+    page-layout: full
+
