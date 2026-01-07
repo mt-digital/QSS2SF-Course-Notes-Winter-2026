@@ -1,29 +1,36 @@
 /*-- scss:rules --*/
 
-/* === Fonts === */
+/* =========================================================
+   Fonts
+   ========================================================= */
+
 @import url("https://fonts.googleapis.com/css2?family=Source+Serif+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=Fira+Sans:ital,wght@0,300;0,400;0,500;0,600&display=swap");
 
-/* === Color system === */
+
+/* =========================================================
+   Color system
+   (kept explicit; duplication below is intentional cleanup)
+   ========================================================= */
+
 $title-bg: #444;
-$title-fg: #8fb3cc;
 $title-fg: #acc7db;
 $subtitle-fg: #fdfaf6;
 $heading-color: #4f7d9d;
 $inline-code-purple: #a277ff;
 
-$navbar-bg: #4a789b;
-$navbar-fg: #ffffff;
-$navbar-hover: #f4d3e1;
-
 $navbar-bg: #444;
 $navbar-fg: #ffffff;
 $navbar-hover: #f4d3e1;
+
+
+/* =========================================================
+   Navbar
+   ========================================================= */
 
 .navbar,
 .navbar.navbar-dark,
 .navbar.navbar-light {
   background-color: $navbar-bg;
-  // font-family: "Fira Sans", system-ui, sans-serif;
 }
 
 .navbar .navbar-brand,
@@ -36,99 +43,74 @@ $navbar-hover: #f4d3e1;
   color: $title-fg;
 }
 
+
+/* =========================================================
+   Sidebar navigation
+   ========================================================= */
+
+#quarto-sidebar > div.sidebar-menu-container {
+  li {
+    font-size: 0.85rem;
+    line-height: 1.3rem;
+  }
+}
+
 .sidebar-menu-container a.sidebar-link.active {
-  color: #2ea8e7;          
-  // font-weight: 600;
+  color: #2ea8e7;
 }
 
 .sidebar-menu-container a.sidebar-link:hover .menu-text {
-  color: #2ea8e7;          
+  color: #2ea8e7;
 }
 
 
+/* =========================================================
+   Main body text
+   ========================================================= */
 
-/* === Body content === */
-// section {
 main#quarto-document-content {
   max-width: 68ch;
   margin-left: auto;
   margin-right: auto;
+
   font-family: "Source Serif Pro", serif;
   font-weight: 400 !important;
   font-size: 17px;
+
   text-align: justify;
 }
 
-#quarto-sidebar > div.sidebar-menu-container {
-  // font-family: "Fira Sans", sans-serif;
-  li { 
-    font-size: 0.85rem; 
-    line-height: 1.3rem; 
-  }
-  
-}
-
+/* KaTeX should inherit the serif voice, not default math vibes */
 span.katex-html {
   font-family: "Source Serif Pro", "KaTeX_Main", serif;
   font-size: 1.05em;
 }
 
+/* Headings: restrained, not shouty */
 .content :is(h1, h2, h3, h4, h5, h6) {
   letter-spacing: 0.02em;
   color: $heading-color;
-  // font-family: "Fira Sans", system-ui, sans-serif;
   font-weight: 400;
 }
 
 
-.quarto-title-block {
-  background-color: $navbar-bg;
-  padding: 0.8rem;
-  border-radius: 2px;
-  margin-bottom: 0.5rem;
-  color: #ccc;
-  // text-align: center;
-}
+/* =========================================================
+   Inline code
+   ========================================================= */
 
-.quarto-title-block {
-  display: none;
-}
-
-section#welcome > h1.unnumbered {
-  margin-top: .1rem;
-}
-
-
-/* === Inline code === */
 :not(pre) > code {
   color: $inline-code-purple;
 }
 
-#title-block-header > div.quarto-title-banner.page-columns.page-full {
-  padding: 0;
-  margin-left: auto;
-  margin-right: auto;
-  // font-family: "Fira Sans", sans-serif;
-  background-color: $title-bg;
-  // text-align: justify;
-}
 
+/* =========================================================
+   Page layout nudges
+   ========================================================= */
 
-#quarto-document-content > p {
-  width: 100%
-}
-
-// #quarto-document-content {
-//   margin-left: 0;
-//   // margin-right: 0;
-// }
-
-/* Shift main text left */
+/* Quarto’s grid leaves the content slightly right-heavy */
 .page-columns > .content {
   margin-left: -4rem;
 }
-
-
 
 .content {
   max-width: 1000px;
@@ -136,63 +118,138 @@ section#welcome > h1.unnumbered {
   margin-right: auto;
 }
 
-.quarto-title.column-body {
-  display: flex;
-  flex-direction: column;
-  align-items: center;   /* horizontal centering */
-  text-align: center;    /* center text itself */
+
+/* =========================================================
+   Title block & banner
+   ========================================================= */
+
+/*
+  The default title block is visually noisy and redundant
+  for this site. Hide it entirely and rely on the banner.
+*/
+.quarto-title-block {
+  display: none;
 }
 
-
+/* Title banner container */
 #title-block-header > div.quarto-title-banner.page-columns.page-full {
-  align-items: center;  
+  padding: 0;
+  margin-left: auto;
+  margin-right: auto;
+  background-color: $title-bg;
+  align-items: center;
 }
 
-#title-block-header > div.quarto-title-banner.page-columns.page-full > div {
+/* Inner title column */
+#title-block-header
+  > div.quarto-title-banner.page-columns.page-full
+  > div {
   margin-left: 0;
   text-align: center;
 }
+
+/* Title text itself */
+.quarto-title.column-body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+}
+
 .quarto-title h1 {
   font-family: "Source Serif Pro", serif;
   font-weight: 600;
 }
 
-
-.quarto-categories {
-  display: flex;
-  justify-content: center;
-  gap: 0.5rem;
-  flex-wrap: wrap;
+/* Home page welcome header spacing tweak */
+section#welcome > h1.unnumbered {
+  margin-top: 0.1rem;
 }
 
-/* Force title + categories to align with content column */
-.quarto-title,
+
+#title-block-header > div.quarto-title-banner.page-columns.page-full {
+  padding-top: 1.75rem;
+  padding-bottom: 1rem;
+  width: 100%;
+}
+
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+
+  font-weight: 400 !important;
+  font-size: 17px;
+  text-align: left;
+}
+
+#title-block-header > .quarto-title-meta.column-page {
+  max-width: var(--quarto-body-width);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+
+
+#title-block-header.quarto-title-block.default .quarto-title-meta {
+  grid-column-gap: 33ch;
+}
+
+
+
+/* =========================================================
+   Categories (the pills under the title)
+   ========================================================= */
+
+/*
+  Safari centers these implicitly; Chrome does not.
+  Be explicit so both browsers agree.
+*/
 .quarto-categories {
+  justify-content: center;
+  gap: 1rem;
+}
+
+/*
+  Ensure title + categories align with the content column,
+  not the full grid width.
+*/
+.quarto-title {
   grid-column: content;
   justify-self: center;
   text-align: center;
-
   margin-left: auto;
 }
 
 
+/* =========================================================
+   Title metadata (author, date)
+   ========================================================= */
+
 div.quarto-title-meta {
-  // text-align: left;
   text-align: left;
   margin-left: 150px;
   margin-right: auto;
 }
 
+/* Home page doesn’t need meta clutter */
 .page-home .quarto-title-meta {
   display: none;
 }
 
 
-// #title-block-header {
-//   display: none;
-// }
+/* =========================================================
+   Home page–specific rules (canonical "/")
+   ========================================================= */
 
-:root:has(link[rel="canonical"][href$="/"]) .quarto-title-meta {
-  display: none;
+/*
+  Quarto doesn’t give us a clean page-type hook,
+  so we key off the canonical URL.
+*/
+:root:has(link[rel="canonical"][href$="/"]) {
+
+  .quarto-title-meta {
+    display: none;
+  }
+
+  main#quarto-document-content {
+    max-width: 90ch;
+  }
 }
-

@@ -12,6 +12,7 @@ listing:
 page-layout: full
 title-block-banner: true
 ---
+:::{#landing}
 
 # Welcome! {.unnumbered #welcome}
 
@@ -23,3 +24,4 @@ Search for something (top right), or browse by category (click a Category to the
 
 ## Lecture Notes Posts {.unnumbered }
 
+:::
