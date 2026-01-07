@@ -1,0 +1,17 @@
+---
+title: "The Strategic Importance of Group Identity and Diverse Coalitions"
+subtitle: "Technical development of material for SSRI WIRe 2026 #1"
+author: "Matt Turner"
+date: "2026-01-07"
+categories: [Curriculum, Social Networks, Groups, Cultural Evolution]
+editor: 
+  markdown: 
+    wrap: 80
+---
+
+Our demographic, social, and economic identities can boost or dampen hopes that
+behaviors we'd like others to do will _go viral_, meaning be imitated by many
+others in waves of adoption—each past imitator subsequently imitated by several 
+new ones.
+
+

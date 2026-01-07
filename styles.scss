@@ -50,14 +50,13 @@ $navbar-hover: #f4d3e1;
 /* === Body content === */
 // section {
 main#quarto-document-content {
-  max-width: 100ch;
+  max-width: 68ch;
   margin-left: auto;
   margin-right: auto;
   font-family: "Source Serif Pro", serif;
   font-weight: 400 !important;
   font-size: 17px;
-  // font-size: 17px;
-  // text-align: justify;
+  text-align: justify;
 }
 
 #quarto-sidebar > div.sidebar-menu-container {
@@ -88,7 +87,7 @@ span.katex-html {
   border-radius: 2px;
   margin-bottom: 0.5rem;
   color: #ccc;
-  text-align: center;
+  // text-align: center;
 }
 
 .quarto-title-block {
@@ -111,7 +110,7 @@ section#welcome > h1.unnumbered {
   margin-right: auto;
   // font-family: "Fira Sans", sans-serif;
   background-color: $title-bg;
-  text-align: justify;
+  // text-align: justify;
 }
 
 
@@ -144,18 +143,15 @@ section#welcome > h1.unnumbered {
   text-align: center;    /* center text itself */
 }
 
-/* Center title block content */
-.quarto-title-block {
-  display: flex;
-  align-items: center;
-}
-
 
 #title-block-header > div.quarto-title-banner.page-columns.page-full {
   align-items: center;  
 }
 
-
+#title-block-header > div.quarto-title-banner.page-columns.page-full > div {
+  margin-left: 0;
+  text-align: center;
+}
 .quarto-title h1 {
   font-family: "Source Serif Pro", serif;
   font-weight: 600;
