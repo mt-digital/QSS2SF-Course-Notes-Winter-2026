@@ -69,7 +69,7 @@ $navbar-hover: #f4d3e1;
    ========================================================= */
 
 main#quarto-document-content {
-  max-width: 68ch;
+  max-width: 72ch;
   margin-left: auto;
   margin-right: auto;
 
@@ -163,7 +163,9 @@ span.katex-html {
 
 /* Home page welcome header spacing tweak */
 section#welcome > h1.unnumbered {
-  margin-top: 0.1rem;
+  margin-top: 0.7rem;
+  font-size: 35px;
+  text-align: justify !important;
 }
 
 
@@ -243,13 +245,91 @@ div.quarto-title-meta {
   Quarto doesn’t give us a clean page-type hook,
   so we key off the canonical URL.
 */
-:root:has(link[rel="canonical"][href$="/"]) {
+/* :root:has(link[rel="canonical"][href$="/"]) { */
 
-  .quarto-title-meta {
-    display: none;
-  }
+/*   .quarto-title-meta { */
+/*     display: none; */
+/*   } */
 
-  main#quarto-document-content {
-    max-width: 90ch;
-  }
+/*   main#quarto-document-content { */
+/*     width: 80% !important; */
+/*   } */
+/* } */
+/* .page-home */
+
+.page-home .quarto-title-meta {
+  display: none;
+}
+
+
+/* Clean up Quarto listing layout */
+.quarto-listing .quarto-post {
+  display: grid;
+  grid-template-columns: 7rem 1fr;
+  column-gap: 2rem;
+  align-items: start;
+  margin-bottom: 3rem;
+}
+
+#listing-listing > div.list.quarto-listing-default > div > div.body > h3
+{
+  font-size: 20px;
+}
+
+
+#listing-listing > div.list.quarto-listing-default > div > div.body >
+div.listing-subtitle > a {
+  color: #999;
+}
+
+/* Left rail: date + author */
+.quarto-post .metadata {
+  font-size: 0.85rem;
+  color: #777;
+  text-align: right;
+  line-height: 1.3;
+}
+
+/* Title block */
+.quarto-post .listing-title {
+  font-size: 1.6rem;
+  line-height: 1.25;
+  margin-bottom: 0.4rem;
+}
+
+/* .quarto-post .metadata .author { */
+/*   display: none; */
+/* } */
+#listing-listing > div.list.quarto-listing-default > div > div.metadata
+{
+  display: none;
+}
+
+
+/* Subtitle / description */
+.quarto-post .listing-subtitle {
+  font-size: 1rem;
+  color: #444;
+  margin-bottom: 0.6rem;
+}
+
+/* Categories / tags */
+.quarto-post .quarto-categories {
+  margin-bottom: 0.6rem;
+}
+
+.quarto-post .quarto-category {
+  font-size: 0.7rem;
+  padding: 0.15em 0.5em;
+}
+
+/* Excerpt */
+.quarto-post .listing-description {
+  max-width: 38rem;
+  line-height: 1.5;
+}
+
+#listing-listing > div.list.quarto-listing-default > div > div.body >
+div.listing-description {
+  font-size: 16px;
 }
