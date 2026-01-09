@@ -1,7 +1,29 @@
 from,to,type
+## ----- PEER relationship domain ----
+# ---- Trade (Fig 2a)
+Medici,Ginori,trade
+Tournabuoni,Solosmei,trade
+Solosmei,DellaCasa,trade
+Rondinelli,DellaCasa,trade
+Rondinelli,Guasconi,trade
+Castellani,Peruzzi,trade
+Castellani,Rondinelli,trade
+Albizzi,Velluti,trade
+Lamberteschi,Velluti,trade
+Velluti,Baroncelli,trade
+Guicciardini,Baroncelli,trade
+DaUzzano,Ardinghelli,trade
+
+# ---- Friendship (Fig 2b)
+Medici,Guicciardini,friendship
+Medici,Albizzi,friendship
+Strozzi,Guicciardini,friendship
+Strozzi,Rucellai,friendship
+
+
 ## ----- MARRIAGE relationship domain ----
 # ---- Marriage ties (Fig 2a)
-Medici,Tournabuoni,marriage
+Medici,Tornabuoni,marriage
 Medici,Albizzi,marriage
 Guicciardini,Medici,marriage
 Guasconi,Medici,marriage
@@ -33,43 +55,25 @@ Albizzi,Peruzzi,marriage
 Albizzi,Guasconi,marriage
 
 
-## ----- PEER relationship domain ----
-# ---- Trade (Fig 2a)
-Medici,Ginori,trade
-Tournabuoni,Solosmei,trade
-Solosmei,DellaCasa,trade
-Rondinelli,DellaCasa,trade
-Rondinelli,Guasconi,trade
-Castellani,Peruzzi,trade
-Castellani,Rondinelli,trade
-Albizzi,Velluti,trade
-Lamberteschi,Velluti,trade
-Velluti,Baroncelli,trade
-Guicciardini,Baroncelli,trade
-
-# ---- Friendship (Fig 2b)
-Medici,Guicciardini,friendship
-Medici,Albizzi,friendship
-Strozzi,Guicciardini,friendship
-Strozzi,Rucellai,friendship
-
-
 ## ----- OBLIGATION relationship domain ----
+# ---- Personal loans (Fig 2b)
+Medici,Rondinelli,personal_loan
+Medici,Orlandini,personal_loan
+Medici,Ginori,personal_loan
+Medici,Cocco-Donati,personal_loan
+Medici,Tornabuoni,personal_loan
+Tornabuoni,Fioravanti,personal_loan
+Ardinghelli,Baroncelli,personal_loan
+Lamberteschi,Peruzzi,personal_loan
+Peruzzi,Albizzi,personal_loan
+Guasconi,Albizzi,personal_loan
+
+# ---- Mallevadori (surety) ties (Fig 2b)
+Guasconi,Castellani,mallevadori
+Guasconi,Albizzi,mallevadori
+Strozzi,Peruzzi,mallevadori
+
 # ---- Patronage (Fig 2b)
 Medici,Guicciardini,patronage
 Medici,Guasconi,patronage
 Medici,Albizzi,patronage
-Medici,Castellani,patronage
-
-# ---- Personal loans (Fig 2b)
-Strozzi,Rondinelli,personal_loan
-Peruzzi,Panciatichi,personal_loan
-Fioravanti,Valori,personal_loan
-Guasconi,Rondinelli,personal_loan
-Medici,DaUzzano,personal_loan
-Medici,Orlandini,personal_loan
-
-# ---- Mallevadori (surety) ties (Fig 2b)
-Castellani,Strozzi,mallevadori
-Medici,Castellani,mallevadori
-Strozzi,Peruzzi,mallevadori

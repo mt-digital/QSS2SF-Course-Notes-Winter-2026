@@ -163,9 +163,8 @@ without a clear reason specified.
 
 # Case Study: the Rise of the Medici
 
-```{r}
-source("R/medici_networks_demo.R")
-
+```{r }
+source("R/medici_networks.R")
 ```
 
 # Discussion
