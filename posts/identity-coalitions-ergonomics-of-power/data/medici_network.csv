@@ -1,0 +1,72 @@
+from,to,type
+## ----- MARRIAGE relationship domain ----
+# ---- Marriage ties (Fig 2a)
+Medici,Tournabuoni,marriage
+Medici,Albizzi,marriage
+Guicciardini,Medici,marriage
+Guasconi,Medici,marriage
+Fioravanti,Guadagni,marriage
+Guadagni,Bischeri,marriage
+Davanzati,Orlandini,marriage
+DallAntella,Ginori,marriage
+Ginori,Dietsavli,marriage
+Valori,Cocco-Donati,marriage
+DaUzzano,Guasconi,marriage
+Guasconi,DaUzzano,marriage
+Rodinelli,Guasconi,marriage
+Castellani,Rodinelli,marriage
+Castellani,Pepi,marriage
+Castellani,Scambrilla,marriage
+Benizzi,Strozzi,marriage
+Guasconi,Strozzi,marriage
+Strozzi,Rucellai,marriage
+Strozzi,Panciatichi,marriage
+Strozzi,Peruzzi,marriage
+Peruzzi,Castellani,marriage
+Peruzzi,Guasconi,marriage
+Peruzzi,Panciatichi,marriage
+Peruzzi,DellaCasa,marriage
+Panciatichi,Albizzi,marriage
+DellaCasa,Albizzi,marriage
+Albizzi,Altoviti,marriage
+Albizzi,Peruzzi,marriage
+Albizzi,Guasconi,marriage
+
+
+## ----- PEER relationship domain ----
+# ---- Trade (Fig 2a)
+Medici,Ginori,trade
+Tournabuoni,Solosmei,trade
+Solosmei,DellaCasa,trade
+Rondinelli,DellaCasa,trade
+Rondinelli,Guasconi,trade
+Castellani,Peruzzi,trade
+Castellani,Rondinelli,trade
+Albizzi,Velluti,trade
+Lamberteschi,Velluti,trade
+Velluti,Baroncelli,trade
+Guicciardini,Baroncelli,trade
+
+# ---- Friendship (Fig 2b)
+Medici,Guicciardini,friendship
+
+
+## ----- OBLIGATION relationship domain ----
+# ---- Patronage (Fig 2b)
+Medici,Guicciardini,patronage
+Medici,Guasconi,patronage
+Medici,Albizzi,patronage
+Medici,Castellani,patronage
+
+# ---- Personal loans (Fig 2b)
+Strozzi,Rondinelli,personal_loan
+Peruzzi,Panciatichi,personal_loan
+Fioravanti,Valori,personal_loan
+Guasconi,Rondinelli,personal_loan
+Medici,DaUzzano,personal_loan
+Medici,Orlandini,personal_loan
+
+# ---- Mallevadori (surety) ties (Fig 2b)
+Castellani,Strozzi,mallevadori
+Medici,Castellani,mallevadori
+Strozzi,Peruzzi,mallevadori
