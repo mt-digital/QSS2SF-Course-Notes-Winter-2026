@@ -4,7 +4,7 @@ website:
   title: "Quantitative Social Science to Shape The Future — Course Notes"
   navbar:
     collapse: true
-    # pinned: true
+    pinned: true
     search: true
 
 bibliography: 
@@ -25,7 +25,6 @@ format:
         - styles.scss
     fontsize: 1.0em
     linestretch: 1.2
-    number-sections: true
-    number-depth: 3
+    number-sections: false
     page-layout: full
 

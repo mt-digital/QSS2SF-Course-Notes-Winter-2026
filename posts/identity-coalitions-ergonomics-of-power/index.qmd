@@ -1,6 +1,6 @@
 ---
-title: "The Strategic Importance of Group Identity and Diverse Coalitions"
-subtitle: "Technical development of material for SSRI WIRe 2026 #1"
+title: "Group Identity and Diverse Coalitions: The Ergonomics of Power and Adaptability"
+subtitle: "Tech material for SSRI WIRe 2026 #1"
 author: "Matt Turner"
 date: "2026-01-07"
 categories: [Curriculum, Social Networks, Groups, Cultural Evolution]
@@ -9,9 +9,165 @@ editor:
     wrap: 80
 ---
 
-Our demographic, social, and economic identities can boost or dampen hopes that
-behaviors we'd like others to do will _go viral_, meaning be imitated by many
-others in waves of adoption—each past imitator subsequently imitated by several 
-new ones.
+
+# Introduction
+
+
+Recorded history is marked by rises and falls of governments. The
+governed usually reap little reward from the arrangement, and instead 
+feel the brunt of government adventurism, brutality, and
+exploitation, while providing the
+economic foundation for the government's realm with no voice in its direction. 
+
+Democratic rule changes that, but the good faith required for 
+democracy can be manipulated by bad faith actors under the right
+circumstances. 
+
+Between those extremes, some governments are characterized by simmering tensions
+and even open conflict among a set of oligarch peers. It is relatively easy for
+new oligarchs to enter the fray, like successful artisans, merchants, or
+craftsmen sometimes did in Late Medieval Florence before it became part of
+modern Italy centuries later.
+
+In this Report I will explain what social scientists have learned about general
+principles of how the presence of diverse, distinct _group identities_ can be
+leveraged to design more powerful governments, or more _adaptive organizations_
+more generally. Whatever the form of organization, power can be designed to be
+more _ergonomic_—meaning the costs of motivating compliance and organizing
+coordination are lower, and behavior adoption is motivated by self-interest. 
+
+## Ergonomic organizations for sustainable development that works for all
+
+This approach to designing ergonomic governments and organizations could 
+be applied to a problem it seems governments and other organizations face today:
+culture is moving faster than regulations and certification systems can keep up
+with. I believe that an extremely powerful organizational approach could be to
+design systems so that people are free and the most sustainable behaviors are
+also legitimately the most profitable. 
+
+Financial incentives like carbon markets or electric car tax credits may be 
+mostly doomed to fail because they seek capital investment from the current
+permanent-growth, never-enough political and economic system. A more robust
+approach, I believe, would be to design a sustainable economy that works for
+everybody starting from "enough". Until just recently we lacked the science
+necessary to do this design work. Now, social science provides us tools 
+for _designing_ organizations that are robust both to current conditions, and
+anticipate future change and uncertainty. I believe this approach will prove
+that humanity is not failing to adapt to and mitigate climate change due to
+a lack of education, but because our approach to power is outdated.
+
+## Power: getting others to do what you want
+
+Power, it could be said, consists in getting others to do what you want them to
+do. In modern parlance, power could be measured by who can best get their ideas
+and practices to _go viral_. When a practice _goes viral_, that means it spreads
+spontaneously through social interactions or observations and imitation. When
+something goes viral, every time one person imitates a practice, several more
+imitate that one, then several more imitate the most recent imitators, and so
+on, in a cascade of adoption.
+
+Of course there are other types of power that are
+important, such as for personal peace of mind: I personally find it empowering
+to recognize that I am free to at least try to control my reactions to events,
+if not events themselves. However, for pragmatic reasons, I focus here only on
+the more messy issue of how to effectively, _and ethically_, build up the sort
+of power that lifts up stakeholders, customers, or citizens, and modestly 
+but significantly rewards those entrepreneurs, policymakers, or politicians who
+wield their power for good.
+
+
+## This is For Do-gooders
+
+This _WIRe_ is for those who want to promote something they think will provide a
+real value for others, because that's what works best and that's what aligns
+with my ethics. 
+
+Beyond politics, I believe the lessons in this Report apply outside of
+governments, institutions, and other large organizations. For example, I
+recently met a small business owner who sells and installs high-quality air
+conditioning and heating systems. His equipment and installations are more
+expensive up front, but homeowners save money in the long run because they are
+much more reliable than cheaper alternatives. Also, one basic lesson from social
+science not covered in this Report is that forced conformity doesn't work nearly
+as well as free choice based on personal interest for getting practices to go
+viral.
+
+
+# Social Science Models of Group Identity and Interaction in Social Networks
+
+I'm on a mission to teach social science to non-experts so they can better
+understand their world and do their own social science-based organizational
+engineering. Just like understanding physics helps us understand everyday
+technology like automatic sliding glass doors or cars, social science can help
+us understand everyday social dynamics playing out in the news, in the
+workplace, and in our personal relationships. I believe social science can help
+us slow social dynamics down and see just how seriously culture constrains the
+space of our imaginations, especially when it comes to social and economic
+organization.
+
+_Social science_ provides the basic knowledge we need to create mathematical and
+computer code representations of social behavior. In my system, _social science_
+includes a wide variety of disciplines, including sociology, anthropology,
+cognitive science, and psychology.
+
+In _quantitative social science_, we do not assume in advance that a behavior
+goes viral. Instead, we assume that people learn from one another in a certain
+way; we assume that if there are groups in a population, then one's group
+membership partly determines who interacts with whom, which we represent as a
+_social network_. Social networks are a convenient mental model of people and
+their relationships. We assume different things for different problems in social
+science, such as understanding radicalization and polarization, to be reviewed
+in another Report.
+
+
+## Group Identity and Social Networks
+
+The concept of a social network is now somewhat ubiquitous, but it's important
+to review exactly what I mean by it. Social networks are made up of _nodes_,
+which represent people, and _edges_, which represent their relationships.
+This graphical representation makes it easy to draw and play around with 
+social networks. In computer code, we can test how well practices go viral
+for different social networks. 
+
+In the real world, different social networks
+serve different purposes: food sharing networks among Indigenous arctic peoples
+are optimized for resilience against periodic food insecurity via regular
+sharing during times of food security—and as I review below, the Medici clan
+came to dominate Florentine politics through strategic social network
+engineering via marriage, lending, and business social ties. 
+
+Social science has shown that a population composed of people from diverse group
+identities is more adaptive compared to less diverse populations, 
+_assuming group identities are respected and diversity is tolerated_. In other
+words, quantitative social science helps us give a _practical_ reason to support
+diversity, equity, and inclusion, to add to the existing _ethical_ reasons to do
+so.
+
+
+## Social Learning
+
+In social science we differentiate _social learning_ from _asocial_ or
+_individual_ learning to mean whenever one person observes or learns from
+another person, as opposed to self-instruction or trial-and-error. Upon learning
+how to do something from others we may _adopt_ that behavior. If we are already
+doing some practice, we may either _keep_ doing that practice, or _drop_ it. 
+
+In this Report, we will assume that people choose who to learn from based
+on who appears to be doing the best. To tame the complexity of social behavior,
+we have to make approximations like this, even though we humans have 
+many complex, complementary strategies for deciding what to do and from whom to learn. 
+
+Other representations of social
+learning include _conformity_, which is when people preferentially adopt
+behaviors that are more common; and _random_ behavior choice, 
+where different behaviors are more or less likely to be adopted or dropped
+without a clear reason specified.
+
+
+# Case Study: the Rise of the Medici
+
+
+
+# Discussion
 
 
