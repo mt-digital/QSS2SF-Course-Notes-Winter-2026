@@ -4,11 +4,9 @@ subtitle: "Tech material for SSRI WIRe 2026 #1"
 author: "Matt Turner"
 date: "2026-01-07"
 categories: [Curriculum, Social Networks, Groups, Cultural Evolution]
-editor: 
-  markdown: 
-    wrap: 80
+execute:
+  freeze: auto
 ---
-
 
 # Introduction
 
@@ -165,7 +163,10 @@ without a clear reason specified.
 
 # Case Study: the Rise of the Medici
 
+```{r}
+source("R/medici_networks_demo.R")
 
+```
 
 # Discussion
 

@@ -49,6 +49,9 @@ Guicciardini,Baroncelli,trade
 
 # ---- Friendship (Fig 2b)
 Medici,Guicciardini,friendship
+Medici,Albizzi,friendship
+Strozzi,Guicciardini,friendship
+Strozzi,Rucellai,friendship
 
 
 ## ----- OBLIGATION relationship domain ----
