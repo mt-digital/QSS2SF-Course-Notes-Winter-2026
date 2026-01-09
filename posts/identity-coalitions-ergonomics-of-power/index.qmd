@@ -12,7 +12,6 @@ editor:
 
 # Introduction
 
-
 Recorded history is marked by rises and falls of governments. The
 governed usually reap little reward from the arrangement, and instead 
 feel the brunt of government adventurism, brutality, and
