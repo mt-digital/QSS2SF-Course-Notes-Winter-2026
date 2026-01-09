@@ -163,10 +163,58 @@ without a clear reason specified.
 
 # Case Study: the Rise of the Medici
 
-```{r }
+```{r}
+#| label: setup
+#| include: false
+
 source("R/medici_networks.R")
 ```
 
+In the early 1400s, the Medici clan built overtook Florentine power through strategic alliances; in this presentation I follow the academic work of John Padgett and 
+Christopher Ansell, who synthesized the work of several historians before them to bring it in to social science [@Padgett1993]. I follow their presentation, with assistance
+from online resources including Wikipedia pages on [Cosimo de' Medici](https://en.wikipedia.org/wiki/Cosimo_de%27_Medici#) (founder of the Medici dynasty), the [House of Medici](https://en.wikipedia.org/wiki/House_of_Medici), the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), and others listed below as needed.
+
+The Medici found an _ergonomic_ way to respond to a complex set of relatively new stressors on the economy. Political power oscillated rather rapidly in Florence in the late 1300s, with an uneasy alliance between oligarchs and an old money guard of Grand Guild (_Arti Maggiori_), professional-political groups with voting rights in Florentine government, trying to prevent new money Lesser Guild (_Arti Minori_) members from attaining voting rights in government. The Lesser Guilds in turn were struggling to prevent uprisings among politically invisible laborers, who also wanted representation in government, lower taxes, and higher wages. When the Grand Guild increased the cost of guild formation 
+
+
+
+## Let's get our hands dirty
+
+
+
+```{r}
+g <- get_medici_network()
+print(g)
+```
+
+
+```{r}
+#| fig-cap: "**The engineered social network of the Medici clan**"
+#| fig-lightbox: true
+
+
+```
+
+
 # Discussion
 
+## Historical circumstance 
 
+
+## Predicting "What If" Scenarios with Social Science
+
+Physics didn’t just explain how the planets move — it let us ask “what if?” What if we added another planet between Earth and Venus? What if Earth had two moons?
+
+We can’t run those experiments in space, but we can explore them with equations and simulations. That’s enough to understand the forces involved and how changing the setup would change the outcome.
+
+Social science plays the same role for societies. We usually can’t rebuild society from scratch, and we can’t test it in a lab, but we can still reason about arrangements that shape how people interact, which feed back to create new arrangements — instead of treating the current system as mysterious or inevitable.
+
+Going back to the Italian Renaissance, Galileo Galilei dedicated his discovery
+
+...STOPPING HERE 8:30 1/9/26 ... PICK BACK UP HERE ON RETURN
+
+Jupiter’s moons in 1610, he didn’t just report a new observation; he demonstrated that celestial systems could be modeled, compared, and reimagined. Galileo famously dedicated the discovery to the Medici—naming them the Medicean Stars—in hopes of securing patronage and escaping increasingly frustrating Venetian support. The gesture worked. But the deeper point is that once planetary motion could be reasoned about structurally, the heavens stopped being a matter of fate or symbolism and became a domain of counterfactual thinking.
+That same transition—from reverent description to structured “what if” reasoning—is what social science makes possible for human institutions.
+
+
+# References

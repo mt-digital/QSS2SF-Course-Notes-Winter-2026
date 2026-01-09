@@ -10,6 +10,7 @@ website:
 bibliography: 
   - /Users/mt/workspace/Writing/library.bib
   - references.bib
+csl: /Users/mt/workspace/Writing/apa.csl
 
 format:
   html:
