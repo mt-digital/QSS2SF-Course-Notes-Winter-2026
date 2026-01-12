@@ -29,3 +29,4 @@ format:
     number-sections: false
     page-layout: full
 
+    code-link: true

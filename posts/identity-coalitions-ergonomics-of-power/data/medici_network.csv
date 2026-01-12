@@ -2,7 +2,7 @@ from,to,type
 ## ----- PEER relationship domain ----
 # ---- Trade (Fig 2a)
 Medici,Ginori,trade
-Tournabuoni,Solosmei,trade
+Tornabuoni,Solosmei,trade
 Solosmei,DellaCasa,trade
 Rondinelli,DellaCasa,trade
 Rondinelli,Guasconi,trade
@@ -35,8 +35,8 @@ Ginori,Dietsavli,marriage
 Valori,Cocco-Donati,marriage
 DaUzzano,Guasconi,marriage
 Guasconi,DaUzzano,marriage
-Rodinelli,Guasconi,marriage
-Castellani,Rodinelli,marriage
+Rondinelli,Guasconi,marriage
+Castellani,Rondinelli,marriage
 Castellani,Pepi,marriage
 Castellani,Scambrilla,marriage
 Benizzi,Strozzi,marriage

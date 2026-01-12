@@ -177,26 +177,46 @@ from online resources including Wikipedia pages on [Cosimo de' Medici](https://e
 The Medici found an _ergonomic_ way to respond to a complex set of relatively new stressors on the economy. Political power oscillated rather rapidly in Florence in the late 1300s, with an uneasy alliance between oligarchs and an old money guard of Grand Guild (_Arti Maggiori_), professional-political groups with voting rights in Florentine government, trying to prevent new money Lesser Guild (_Arti Minori_) members from attaining voting rights in government. The Lesser Guilds in turn were struggling to prevent uprisings among politically invisible laborers, who also wanted representation in government, lower taxes, and higher wages. When the Grand Guild increased the cost of guild formation 
 
 
-
 ## Let's get our hands dirty
 
+Load the Medici network from CSV (by default in the file 
+`data/medici_network.csv`). The function `get_medici_network` returns a list with two elements: (1) the table that contains the edge list as columns `from`, `to`, and `type`; and (2) the `igraph::graph` representation of the social network.  The term _graph_ refers to the abstract mathematical object defined as a collection of nodes and edges—_network_ refers to a real-world instance of a graph, such as the real-world Medici _social network_ here. 
 
-
+Load the list of edge table and graph representation of the network:
 ```{r}
-g <- get_medici_network()
-print(g)
+net_list <- get_medici_network()
+```
+Let's inspect the first rows of the edge table...
+```{r}
+edge_tbl <- net_list$edge_table
+head(edge_tbl)
+```
+And let's see all 15 Medici rows, one for each connection type that exists connecting the Medici other families. 
+```{r}
+filter(edge_tbl, from == "Medici" | to == "Medici") %>%
+  arrange(from, to)
 ```
 
-
+Printing the `graph` object to screen we see a summary of the graph _attributes_ and the graph _edges_, with _vertex_ (i.e., _node) names listed.
 ```{r}
-#| fig-cap: "**The engineered social network of the Medici clan**"
-#| fig-lightbox: true
+print(net_list$graph)
+```
 
-
+Now visualize the network:
+```{r}
+#| 
+plot_medici_network(x_scale = 1.7)
+# plot_medici_network(
+#   medici_network_csv = 
+#     "posts/identity-coalitions-ergonomics-of-power/data/medici_network.csv",
+#   layout_csv = 
+#     "posts/identity-coalitions-ergonomics-of-power/data/layout.csv"
+#     )
 ```
 
 
 # Discussion
+
 
 ## Historical circumstance 
 
