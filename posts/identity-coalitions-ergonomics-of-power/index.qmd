@@ -13,12 +13,12 @@ execute:
 Recorded history is marked by rises and falls of governments. The
 governed usually reap little reward from the arrangement, and instead 
 feel the brunt of government adventurism, brutality, and
-exploitation, while providing the
-economic foundation for the government's realm with no voice in its direction. 
+exploitation, while providing the economic foundation for the government's 
+realm with no voice in its direction. 
 
 Democratic rule changes that, but the good faith required for 
 democracy can be manipulated by bad faith actors under the right
-circumstances. 
+circumstances.
 
 Between those extremes, some governments are characterized by simmering tensions
 and even open conflict among a set of oligarch peers. It is relatively easy for
@@ -174,8 +174,7 @@ In the early 1400s, the Medici clan built overtook Florentine power through stra
 Christopher Ansell, who synthesized the work of several historians before them to bring it in to social science [@Padgett1993]. I follow their presentation, with assistance
 from online resources including Wikipedia pages on [Cosimo de' Medici](https://en.wikipedia.org/wiki/Cosimo_de%27_Medici#) (founder of the Medici dynasty), the [House of Medici](https://en.wikipedia.org/wiki/House_of_Medici), the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), and others listed below as needed.
 
-The Medici found an _ergonomic_ way to respond to a complex set of relatively new stressors on the economy. Political power oscillated rather rapidly in Florence in the late 1300s, with an uneasy alliance between oligarchs and an old money guard of Grand Guild (_Arti Maggiori_), professional-political groups with voting rights in Florentine government, trying to prevent new money Lesser Guild (_Arti Minori_) members from attaining voting rights in government. The Lesser Guilds in turn were struggling to prevent uprisings among politically invisible laborers, who also wanted representation in government, lower taxes, and higher wages. When the Grand Guild increased the cost of guild formation 
-
+The Medici found an _ergonomic_ way to respond to a complex set of relatively new stressors on the economy. Political power oscillated rather rapidly in Florence in the late 1300s, with an uneasy alliance between oligarchs and an old money guard of Grand Guilds (_Arti Maggiori_), professional-political groups with voting rights in Florentine government, trying to prevent new money Lesser Guilds (_Arti Minori_) members from attaining voting rights in government. The Lesser Guilds in turn were struggling to prevent uprisings among politically invisible laborers, who also wanted representation in government, lower taxes, and higher wages. When the Grand Guilds quadrupled the cost of entry into their ranks, the Lesser Guilds found cause with the lower, unskilled classes often over drinks in the public houses of the city. 
 
 
 ## Let's get our hands dirty
@@ -196,12 +195,24 @@ print(g)
 ```
 
 
-# Discussion
+# Interpretation and Discussion
 
-## Historical circumstance 
+## Historical Circumstances Create Temporary Cultural Niches 
+
+The Medici case highlights an important general lesson about how seemingly trivial historical circumstances interact and change the landscape of what sorts of organization are most adaptive. Consider the _Ciompi_ Revolt: it seems that it was successful partly because of how the mundane process of turning wool to yarn included the _ciompi_ job of carding the wool, which is to comb and align the cleaned wool fibers that come from rural areas outside Forence. It was urban wage work: low-status and repetetive, but indispensible. 
+
+The oligarchs maintained a chaotic sort of equilibrium before 1400 through tight family ties formed through elite intermarriage, enforced by strict social norms.
+In the Medici case study above, we learned that _clustering_ was greater among the old oligarch families compared to the Medici and their non-oligarch associates. For a time, it seems this tight-knit conglomerate could control access to power through a pay-to-play system that placated a select few who could afford it, while actively limiting representation for the growing population of urban unskilled workers. Urban centers were small enough, and outside threats rare enough, that taxes did not need to be too high to secure the oligarch's wealth and power, as well as the Florentine people. 
+
+Then, starting in the 1400s, the Medici developed a subtle system of control that ergonomically fit the historical context. To signal membership in the oligarch class and maintain influence over the oligarchs, the Medici married in to some of the best-connected clans in the oligarchy, plus established trade partnerships. To capitalize on the growing economic opportunities introduced by newly-wealthy skilled artisans, merchants, and traders, the Medici loaned them money and capital. Marriage ties among the newly-wealthy indirectly extended Medici's political reach still further.
 
 
-## Predicting "What If" Scenarios with Social Science
+## Hypothesis: We Can Design Ergonomic People Power
+
+Fast-forward to today and we can inspect how these lessons apply to 
+
+
+## Zooming Out: Predicting "What If" Scenarios with Social Science
 
 Physics didn’t just explain how the planets move — it let us ask “what if?” What if we added another planet between Earth and Venus? What if Earth had two moons?
 
@@ -209,12 +220,10 @@ We can’t run those experiments in space, but we can explore them with equation
 
 Social science plays the same role for societies. We usually can’t rebuild society from scratch, and we can’t test it in a lab, but we can still reason about arrangements that shape how people interact, which feed back to create new arrangements — instead of treating the current system as mysterious or inevitable.
 
-Going back to the Italian Renaissance, Galileo Galilei dedicated his discovery
+It was actually at the end of the Italian Renaissance when Galileo Galilei dedicated his discovery of
+Jupiter’s moons in 1610 to the Medici—naming them the Medicean Stars—in hopes of securing a more ample patronage since he felt increasingly disrespected by his Venetian benefactors support, which was less than he felt he deserved. I mention this historical connection because it closes the arc of the Italian Renaissance of his day. Galileo didn’t just report a new observation: he demonstrated that celestial systems could be modeled, compared, and reimagined.
 
-...STOPPING HERE 8:30 1/9/26 ... PICK BACK UP HERE ON RETURN
-
-Jupiter’s moons in 1610, he didn’t just report a new observation; he demonstrated that celestial systems could be modeled, compared, and reimagined. Galileo famously dedicated the discovery to the Medici—naming them the Medicean Stars—in hopes of securing patronage and escaping increasingly frustrating Venetian support. The gesture worked. But the deeper point is that once planetary motion could be reasoned about structurally, the heavens stopped being a matter of fate or symbolism and became a domain of counterfactual thinking.
-That same transition—from reverent description to structured “what if” reasoning—is what social science makes possible for human institutions.
+Social science provides humans the same cognitive gadgetry to help us explain what goes viral and why, for example. In other words, social science demystifies fads, polarization, radicalization, institutional decay, and many other phenomena so we can use deductive methods like mathematics and simulation to explain the social dynamics that led to our current context, and predict which social outreach strategies could best promote adaptive organizations ready to meet today's challenges and increase our readiness for tomorrow's.
 
 
 # References

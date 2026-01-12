@@ -123,4 +123,10 @@ plot_medici_network <- function(medici_network_csv = "data/medici_network.csv",
   return (p)
 }
 
-print(plot_medici_network(medici_network_csv = "posts/identity-coalitions-ergonomics-of-power/data/medici_network.csv"))
+# Run the 
+# print(
+#   plot_medici_network(
+#     medici_network_csv = 
+#       "posts/identity-coalitions-ergonomics-of-power/data/medici_network.csv"
+#     )
+#   )
