@@ -107,8 +107,6 @@ plot_medici_network <- function(medici_network_csv = "data/medici_network.csv",
         arrow = arrow(length = arrow_lengths, type="closed"),
         start_cap = rectangle(15, 6, "mm"),
         end_cap   = rectangle(15, 6, "mm"),
-        # start_cap = circle(1, "mm"),
-        # end_cap   = circle(5, "mm"),
         width = 0.7,
         alpha = 0.9,
         strength = 0.5
@@ -116,16 +114,14 @@ plot_medici_network <- function(medici_network_csv = "data/medici_network.csv",
       geom_node_label(
         aes(label = name),
         size = 3,
-        # label.size = 0.25,
         label.size = 0.0,
         fill = "white",
         alpha = 0.5,
-        # nudge_x = 0.1,
-        # nudge_y = 0.1
       ) +
       scale_edge_color_manual(values = edge_colors, name = "Domain") +
       coord_equal() +
-      theme_void()
+      theme_void() +
+      theme(legend.position = c(0.9, 0.3))
 
 #     # Start by plotting the layout computed above
 #     ggraph(lay) +
