@@ -105,13 +105,13 @@ plot_medici_network <- function(medici_network_csv = "data/medici_network.csv",
       geom_edge_fan(
         aes(color = domain),
         arrow = arrow(length = arrow_lengths, type="closed"),
-        start_cap = rectangle(8, 4, "mm"),
-        end_cap   = rectangle(8, 4, "mm"),
+        start_cap = rectangle(15, 6, "mm"),
+        end_cap   = rectangle(15, 6, "mm"),
         # start_cap = circle(1, "mm"),
         # end_cap   = circle(5, "mm"),
         width = 0.7,
         alpha = 0.9,
-        strength = 1.15
+        strength = 0.5
       ) +
       geom_node_label(
         aes(label = name),
