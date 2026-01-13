@@ -39,12 +39,11 @@ get_medici_network <- function(medici_network_csv = "data/medici_network.csv") {
 }
 
 plot_medici_network <- function(medici_network_csv = "data/medici_network.csv",
-                                line_width = 1.25, arrow_size = 1.5, cap_size = 2,
-                                x_scale = 1.0, y_scale = 1.0,
-                                name_font_size = 3, fan_strength = 0.5,
-                                output_save_name = "medici_network.png",
-                                output_width = 1920, output_height = 1400,
-                                # output_width = 1920, output_height = 1400,
+                                output_save_name = "medici_network.pdf",
+                                cap_size = 2, x_scale = 1.0, y_scale = 1.0,
+                                name_font_size = 2.35, line_width=0.6, 
+                                output_width=2000, output_height = 1200,
+                                arrow_size = 1, fan_strength = .8, 
                                 output_dim_units = "px", 
                                 legend_text_size = 10, legend_position = c(0.88, 0.295),
                                 layout_csv = "data/layout.csv",

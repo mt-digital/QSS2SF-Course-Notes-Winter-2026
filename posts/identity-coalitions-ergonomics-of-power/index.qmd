@@ -10,156 +10,55 @@ execute:
 
 # Introduction
 
-Recorded history is marked by rises and falls of governments. The
-governed usually reap little reward from the arrangement, and instead 
-feel the brunt of government adventurism, brutality, and
-exploitation, while providing the economic foundation for the government's 
-realm with no voice in its direction. 
+Recorded history is marked by rises and falls of governments. The governed usually reap little reward from the arrangement, and instead feel the brunt of government adventurism, brutality, and exploitation, while providing the economic foundation for the government's realm with no voice in its direction.
 
-Democratic rule changes that, but the good faith required for 
-democracy can be manipulated by bad faith actors under the right
-circumstances.
+Democratic rule changes that, but the good faith required for democracy can be manipulated by bad faith actors under the right circumstances.
 
-Between those extremes, some governments are characterized by simmering tensions
-and even open conflict among a set of oligarch peers. It is relatively easy for
-new oligarchs to enter the fray, like successful artisans, merchants, or
-craftsmen sometimes did in Late Medieval Florence before it became part of
-modern Italy centuries later.
+Between those extremes, some governments are characterized by simmering tensions and even open conflict among a set of oligarch peers. It is relatively easy for new oligarchs to enter the fray, like successful artisans, merchants, or craftsmen sometimes did in Late Medieval Florence before it became part of modern Italy centuries later.
 
-In this Report I will explain what social scientists have learned about general
-principles of how the presence of diverse, distinct _group identities_ can be
-leveraged to design more powerful governments, or more _adaptive organizations_
-more generally. Whatever the form of organization, power can be designed to be
-more _ergonomic_—meaning the costs of motivating compliance and organizing
-coordination are lower, and behavior adoption is motivated by self-interest. 
+In this Report I will explain what social scientists have learned about general principles of how the presence of diverse, distinct *group identities* can be leveraged to design more powerful governments, or more *adaptive organizations* more generally. Whatever the form of organization, power can be designed to be more *ergonomic*—meaning the costs of motivating compliance and organizing coordination are lower, and behavior adoption is motivated by self-interest.
 
 ## Ergonomic organizations for sustainable development that works for all
 
-This approach to designing ergonomic governments and organizations could 
-be applied to a problem it seems governments and other organizations face today:
-culture is moving faster than regulations and certification systems can keep up
-with. I believe that an extremely powerful organizational approach could be to
-design systems so that people are free and the most sustainable behaviors are
-also legitimately the most profitable. 
+This approach to designing ergonomic governments and organizations could be applied to a problem it seems governments and other organizations face today: culture is moving faster than regulations and certification systems can keep up with. I believe that an extremely powerful organizational approach could be to design systems so that people are free and the most sustainable behaviors are also legitimately the most profitable.
 
-Financial incentives like carbon markets or electric car tax credits may be 
-mostly doomed to fail because they seek capital investment from the current
-permanent-growth, never-enough political and economic system. A more robust
-approach, I believe, would be to design a sustainable economy that works for
-everybody starting from "enough". Until just recently we lacked the science
-necessary to do this design work. Now, social science provides us tools 
-for _designing_ organizations that are robust both to current conditions, and
-anticipate future change and uncertainty. I believe this approach will prove
-that humanity is not failing to adapt to and mitigate climate change due to
-a lack of education, but because our approach to power is outdated.
+Financial incentives like carbon markets or electric car tax credits may be mostly doomed to fail because they seek capital investment from the current permanent-growth, never-enough political and economic system. A more robust approach, I believe, would be to design a sustainable economy that works for everybody starting from "enough". Until just recently we lacked the science necessary to do this design work. Now, social science provides us tools for *designing* organizations that are robust both to current conditions, and anticipate future change and uncertainty. I believe this approach will prove that humanity is not failing to adapt to and mitigate climate change due to a lack of education, but because our approach to power is outdated.
 
 ## Power: getting others to do what you want
 
-Power, it could be said, consists in getting others to do what you want them to
-do. In modern parlance, power could be measured by who can best get their ideas
-and practices to _go viral_. When a practice _goes viral_, that means it spreads
-spontaneously through social interactions or observations and imitation. When
-something goes viral, every time one person imitates a practice, several more
-imitate that one, then several more imitate the most recent imitators, and so
-on, in a cascade of adoption.
+Power, it could be said, consists in getting others to do what you want them to do. In modern parlance, power could be measured by who can best get their ideas and practices to *go viral*. When a practice *goes viral*, that means it spreads spontaneously through social interactions or observations and imitation. When something goes viral, every time one person imitates a practice, several more imitate that one, then several more imitate the most recent imitators, and so on, in a cascade of adoption.
 
-Of course there are other types of power that are
-important, such as for personal peace of mind: I personally find it empowering
-to recognize that I am free to at least try to control my reactions to events,
-if not events themselves. However, for pragmatic reasons, I focus here only on
-the more messy issue of how to effectively, _and ethically_, build up the sort
-of power that lifts up stakeholders, customers, or citizens, and modestly 
-but significantly rewards those entrepreneurs, policymakers, or politicians who
-wield their power for good.
-
+Of course there are other types of power that are important, such as for personal peace of mind: I personally find it empowering to recognize that I am free to at least try to control my reactions to events, if not events themselves. However, for pragmatic reasons, I focus here only on the more messy issue of how to effectively, *and ethically*, build up the sort of power that lifts up stakeholders, customers, or citizens, and modestly but significantly rewards those entrepreneurs, policymakers, or politicians who wield their power for good.
 
 ## This is For Do-gooders
 
-This _WIRe_ is for those who want to promote something they think will provide a
-real value for others, because that's what works best and that's what aligns
-with my ethics. 
+This *WIRe* is for those who want to promote something they think will provide a real value for others, because that's what works best and that's what aligns with my ethics.
 
-Beyond politics, I believe the lessons in this Report apply outside of
-governments, institutions, and other large organizations. For example, I
-recently met a small business owner who sells and installs high-quality air
-conditioning and heating systems. His equipment and installations are more
-expensive up front, but homeowners save money in the long run because they are
-much more reliable than cheaper alternatives. Also, one basic lesson from social
-science not covered in this Report is that forced conformity doesn't work nearly
-as well as free choice based on personal interest for getting practices to go
-viral.
-
+Beyond politics, I believe the lessons in this Report apply outside of governments, institutions, and other large organizations. For example, I recently met a small business owner who sells and installs high-quality air conditioning and heating systems. His equipment and installations are more expensive up front, but homeowners save money in the long run because they are much more reliable than cheaper alternatives. Also, one basic lesson from social science not covered in this Report is that forced conformity doesn't work nearly as well as free choice based on personal interest for getting practices to go viral.
 
 # Social Science Models of Group Identity and Interaction in Social Networks
 
-I'm on a mission to teach social science to non-experts so they can better
-understand their world and do their own social science-based organizational
-engineering. Just like understanding physics helps us understand everyday
-technology like automatic sliding glass doors or cars, social science can help
-us understand everyday social dynamics playing out in the news, in the
-workplace, and in our personal relationships. I believe social science can help
-us slow social dynamics down and see just how seriously culture constrains the
-space of our imaginations, especially when it comes to social and economic
-organization.
+I'm on a mission to teach social science to non-experts so they can better understand their world and do their own social science-based organizational engineering. Just like understanding physics helps us understand everyday technology like automatic sliding glass doors or cars, social science can help us understand everyday social dynamics playing out in the news, in the workplace, and in our personal relationships. I believe social science can help us slow social dynamics down and see just how seriously culture constrains the space of our imaginations, especially when it comes to social and economic organization.
 
-_Social science_ provides the basic knowledge we need to create mathematical and
-computer code representations of social behavior. In my system, _social science_
-includes a wide variety of disciplines, including sociology, anthropology,
-cognitive science, and psychology.
+*Social science* provides the basic knowledge we need to create mathematical and computer code representations of social behavior. In my system, *social science* includes a wide variety of disciplines, including sociology, anthropology, cognitive science, and psychology.
 
-In _quantitative social science_, we do not assume in advance that a behavior
-goes viral. Instead, we assume that people learn from one another in a certain
-way; we assume that if there are groups in a population, then one's group
-membership partly determines who interacts with whom, which we represent as a
-_social network_. Social networks are a convenient mental model of people and
-their relationships. We assume different things for different problems in social
-science, such as understanding radicalization and polarization, to be reviewed
-in another Report.
-
+In *quantitative social science*, we do not assume in advance that a behavior goes viral. Instead, we assume that people learn from one another in a certain way; we assume that if there are groups in a population, then one's group membership partly determines who interacts with whom, which we represent as a *social network*. Social networks are a convenient mental model of people and their relationships. We assume different things for different problems in social science, such as understanding radicalization and polarization, to be reviewed in another Report.
 
 ## Group Identity and Social Networks
 
-The concept of a social network is now somewhat ubiquitous, but it's important
-to review exactly what I mean by it. Social networks are made up of _nodes_,
-which represent people, and _edges_, which represent their relationships.
-This graphical representation makes it easy to draw and play around with 
-social networks. In computer code, we can test how well practices go viral
-for different social networks. 
+The concept of a social network is now somewhat ubiquitous, but it's important to review exactly what I mean by it. Social networks are made up of *nodes*, which represent people, and *edges*, which represent their relationships. This graphical representation makes it easy to draw and play around with social networks. In computer code, we can test how well practices go viral for different social networks.
 
-In the real world, different social networks
-serve different purposes: food sharing networks among Indigenous arctic peoples
-are optimized for resilience against periodic food insecurity via regular
-sharing during times of food security—and as I review below, the Medici clan
-came to dominate Florentine politics through strategic social network
-engineering via marriage, lending, and business social ties. 
+In the real world, different social networks serve different purposes: food sharing networks among Indigenous arctic peoples are optimized for resilience against periodic food insecurity via regular sharing during times of food security—and as I review below, the Medici clan came to dominate Florentine politics through strategic social network engineering via marriage, lending, and business social ties.
 
-Social science has shown that a population composed of people from diverse group
-identities is more adaptive compared to less diverse populations, 
-_assuming group identities are respected and diversity is tolerated_. In other
-words, quantitative social science helps us give a _practical_ reason to support
-diversity, equity, and inclusion, to add to the existing _ethical_ reasons to do
-so.
-
+Social science has shown that a population composed of people from diverse group identities is more adaptive compared to less diverse populations, *assuming group identities are respected and diversity is tolerated*. In other words, quantitative social science helps us give a *practical* reason to support diversity, equity, and inclusion, to add to the existing *ethical* reasons to do so.
 
 ## Social Learning
 
-In social science we differentiate _social learning_ from _asocial_ or
-_individual_ learning to mean whenever one person observes or learns from
-another person, as opposed to self-instruction or trial-and-error. Upon learning
-how to do something from others we may _adopt_ that behavior. If we are already
-doing some practice, we may either _keep_ doing that practice, or _drop_ it. 
+In social science we differentiate *social learning* from *asocial* or *individual* learning to mean whenever one person observes or learns from another person, as opposed to self-instruction or trial-and-error. Upon learning how to do something from others we may *adopt* that behavior. If we are already doing some practice, we may either *keep* doing that practice, or *drop* it.
 
-In this Report, we will assume that people choose who to learn from based
-on who appears to be doing the best. To tame the complexity of social behavior,
-we have to make approximations like this, even though we humans have 
-many complex, complementary strategies for deciding what to do and from whom to learn. 
+In this Report, we will assume that people choose who to learn from based on who appears to be doing the best. To tame the complexity of social behavior, we have to make approximations like this, even though we humans have many complex, complementary strategies for deciding what to do and from whom to learn.
 
-Other representations of social
-learning include _conformity_, which is when people preferentially adopt
-behaviors that are more common; and _random_ behavior choice, 
-where different behaviors are more or less likely to be adopted or dropped
-without a clear reason specified.
-
+Other representations of social learning include *conformity*, which is when people preferentially adopt behaviors that are more common; and *random* behavior choice, where different behaviors are more or less likely to be adopted or dropped without a clear reason specified.
 
 # Case Study: the Rise of the Medici
 
@@ -170,66 +69,73 @@ without a clear reason specified.
 source("R/medici_networks.R")
 ```
 
-In the early 1400s, the Medici clan built overtook Florentine power through strategic alliances; in this presentation I follow the academic work of John Padgett and 
-Christopher Ansell, who synthesized the work of several historians before them to bring it in to social science [@Padgett1993]. I follow their presentation, with assistance
-from online resources including Wikipedia pages on [Cosimo de' Medici](https://en.wikipedia.org/wiki/Cosimo_de%27_Medici#) (founder of the Medici dynasty), the [House of Medici](https://en.wikipedia.org/wiki/House_of_Medici), the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), and others listed below as needed.
+In the early 1400s, the Medici clan built overtook Florentine power through strategic alliances; in this presentation I follow the academic work of John Padgett and Christopher Ansell, who synthesized the work of several historians before them to bring it in to social science [@Padgett1993]. I follow their presentation, with assistance from online resources including Wikipedia pages on [Cosimo de' Medici](https://en.wikipedia.org/wiki/Cosimo_de%27_Medici#) (founder of the Medici dynasty), the [House of Medici](https://en.wikipedia.org/wiki/House_of_Medici), the [Middle Ages](https://en.wikipedia.org/wiki/Middle_Ages), and others listed below as needed.
 
-The Medici found an _ergonomic_ way to respond to a complex set of relatively new stressors on the economy. Political power oscillated rather rapidly in Florence in the late 1300s, with an uneasy alliance between oligarchs and an old money guard of Grand Guilds (_Arti Maggiori_), professional-political groups with voting rights in Florentine government, trying to prevent new money Lesser Guilds (_Arti Minori_) members from attaining voting rights in government. The Lesser Guilds in turn were struggling to prevent uprisings among politically invisible laborers, who also wanted representation in government, lower taxes, and higher wages. When the Grand Guilds quadrupled the cost of entry into their ranks, the Lesser Guilds found cause with the lower, unskilled classes often over drinks in the public houses of the city. 
+The Medici found an *ergonomic* way to respond to a complex set of relatively new stressors on the economy. Political power oscillated rather rapidly in Florence in the late 1300s, with an uneasy alliance between oligarchs and an old money guard of Grand Guilds (*Arti Maggiori*), professional-political groups with voting rights in Florentine government, trying to prevent new money Lesser Guilds (*Arti Minori*) members from attaining voting rights in government. The Lesser Guilds in turn were struggling to prevent uprisings among politically invisible laborers, who also wanted representation in government, lower taxes, and higher wages. When the Grand Guilds quadrupled the cost of entry into their ranks, the Lesser Guilds found cause with the lower, unskilled classes often over drinks in the public houses of the city.
 
-## Let's get our hands dirty
+## Let's get our hands dirty (course notes bonus tech material)
 
-Load the Medici network from CSV (by default in the file 
-`data/medici_network.csv`). The function `get_medici_network` returns a list with two elements: (1) the table that contains the edge list as columns `from`, `to`, and `type`; and (2) the `igraph::graph` representation of the social network.  The term _graph_ refers to the abstract mathematical object defined as a collection of nodes and edges—_network_ refers to a real-world instance of a graph, such as the real-world Medici _social network_ here. 
+Load the Medici network from CSV (by default in the file `data/medici_network.csv`). The function `get_medici_network` returns a list with two elements: (1) the table that contains the edge list as columns `from`, `to`, and `type`; and (2) the `igraph::graph` representation of the social network. The term *graph* refers to the abstract mathematical object defined as a collection of nodes and edges—*network* refers to a real-world instance of a graph, such as the real-world Medici *social network* here.
 
 Load the list of edge table and graph representation of the network:
+
 ```{r}
 net_list <- get_medici_network()
 ```
+
 Let's inspect the first rows of the edge table...
+
 ```{r}
 edge_tbl <- net_list$edge_table
 head(edge_tbl)
 ```
-And let's see all 15 Medici rows, one for each connection type that exists connecting the Medici other families. 
+
+And let's see all 15 Medici rows, one for each connection type that exists connecting the Medici other families.
+
 ```{r}
 filter(edge_tbl, from == "Medici" | to == "Medici") %>%
   arrange(from, to)
 ```
 
-Printing the `graph` object to screen we see a summary of the graph _attributes_ and the graph _edges_, with _vertex_ (i.e., _node) names listed.
+Printing the `graph` object to screen we see a summary of the graph *attributes* and the graph *edges*, with *vertex* (i.e., \_node) names listed.
+
 ```{r}
 print(net_list$graph)
 ```
 
 Now visualize the network:
+
 ```{r}
-#| 
 plot_medici_network(x_scale = 1.7)
-# plot_medici_network(
-#   medici_network_csv = 
-#     "posts/identity-coalitions-ergonomics-of-power/data/medici_network.csv",
-#   layout_csv = 
-#     "posts/identity-coalitions-ergonomics-of-power/data/layout.csv"
-#     )
 ```
 
+After some additional tweaking and customization in Keynote, I got @fig-network-vis. Quite an improvement, I'd say, to be able to see the points a bit more clearly that Padgett & Ansell communicated in their synthesis of a wealth of prior data and historical anaylsis. Here are the network illustrations they published, no doubt an accomplishment in themselves for 1993:
+
+![Original network illustrations from Padgett & Ansell, 1993.](images/clipboard-3554922167.png){fig-align="center"}
+
+We have the opportunity for much more analyses like this now that social network and social behavior data is ubiquitous. These visualization and analytical strategies can be applied to other systems—I'll do my best at that in the post, continued below.
+
+## Analysis
+
+::: {.layout-nrow=2}
+![](images/MediciFull.png){.lightbox fig-align="center"}
+
+![**The multifaceted, multiplexed economic, family, and friendship network developed by Cosimo de' Medici and allies, 1400-1436.** Medici plugged in to three distinct cliques: the oligarchs (A.i), artisans and merchants (A.ii), and a group of traders on the periphery of the oligarchs (A.iii). The oligarch social structure is characterized by circulated prestige via providing a daughter for marriage (along green arrow) to a fellow oligarch family. These interlaced "triangles" of prestige and obligations (stylized trangles underlaid in B).](images/MediciOligarchZoom.png){#fig-network-vis .lightbox fig-align="center"}
+:::
 
 # Interpretation and Discussion
 
-## Historical Circumstances Create Temporary Cultural Niches 
+## Historical Circumstances Create Temporary Cultural Niches
 
-The Medici case highlights an important general lesson about how seemingly trivial historical circumstances interact and change the landscape of what sorts of organization are most adaptive. Consider the _Ciompi_ Revolt: it seems that it was successful partly because of how the mundane process of turning wool to yarn included the _ciompi_ job of carding the wool, which is to comb and align the cleaned wool fibers that come from rural areas outside Forence. It was urban wage work: low-status and repetetive, but indispensible. 
+The Medici case highlights an important general lesson about how seemingly trivial historical circumstances interact and change the landscape of what sorts of organization are most adaptive. Consider the *Ciompi* Revolt: it seems that it was successful partly because of how the mundane process of turning wool to yarn included the *ciompi* job of carding the wool, which is to comb and align the cleaned wool fibers that come from rural areas outside Forence. It was urban wage work: low-status and repetetive, but indispensible.
 
-The oligarchs maintained a chaotic sort of equilibrium before 1400 through tight family ties formed through elite intermarriage, enforced by strict social norms.
-In the Medici case study above, we learned that _clustering_ was greater among the old oligarch families compared to the Medici and their non-oligarch associates. For a time, it seems this tight-knit conglomerate could control access to power through a pay-to-play system that placated a select few who could afford it, while actively limiting representation for the growing population of urban unskilled workers. Urban centers were small enough, and outside threats rare enough, that taxes did not need to be too high to secure the oligarch's wealth and power, as well as the Florentine people. 
+The oligarchs maintained a chaotic sort of equilibrium before 1400 through tight family ties formed through elite intermarriage, enforced by strict social norms. In the Medici case study above, we learned that *clustering* was greater among the old oligarch families compared to the Medici and their non-oligarch associates. For a time, it seems this tight-knit conglomerate could control access to power through a pay-to-play system that placated a select few who could afford it, while actively limiting representation for the growing population of urban unskilled workers. Urban centers were small enough, and outside threats rare enough, that taxes did not need to be too high to secure the oligarch's wealth and power, as well as the Florentine people.
 
 Then, starting in the 1400s, the Medici developed a subtle system of control that ergonomically fit the historical context. To signal membership in the oligarch class and maintain influence over the oligarchs, the Medici married in to some of the best-connected clans in the oligarchy, plus established trade partnerships. To capitalize on the growing economic opportunities introduced by newly-wealthy skilled artisans, merchants, and traders, the Medici loaned them money and capital. Marriage ties among the newly-wealthy indirectly extended Medici's political reach still further.
 
-
 ## Hypothesis: We Can Design Ergonomic People Power
 
-Fast-forward to today and we can inspect how these lessons apply to 
-
+Fast-forward to today and we can inspect how these lessons apply to
 
 ## Zooming Out: Predicting "What If" Scenarios with Social Science
 
@@ -239,10 +145,8 @@ We can’t run those experiments in space, but we can explore them with equation
 
 Social science plays the same role for societies. We usually can’t rebuild society from scratch, and we can’t test it in a lab, but we can still reason about arrangements that shape how people interact, which feed back to create new arrangements — instead of treating the current system as mysterious or inevitable.
 
-It was actually at the end of the Italian Renaissance when Galileo Galilei dedicated his discovery of
-Jupiter’s moons in 1610 to the Medici—naming them the Medicean Stars—in hopes of securing a more ample patronage since he felt increasingly disrespected by his Venetian benefactors support, which was less than he felt he deserved. I mention this historical connection because it closes the arc of the Italian Renaissance of his day. Galileo didn’t just report a new observation: he demonstrated that celestial systems could be modeled, compared, and reimagined.
+It was actually at the end of the Italian Renaissance when Galileo Galilei dedicated his discovery of Jupiter’s moons in 1610 to the Medici—naming them the Medicean Stars—in hopes of securing a more ample patronage since he felt increasingly disrespected by his Venetian benefactors support, which was less than he felt he deserved. I mention this historical connection because it closes the arc of the Italian Renaissance of his day. Galileo didn’t just report a new observation: he demonstrated that celestial systems could be modeled, compared, and reimagined.
 
 Social science provides humans the same cognitive gadgetry to help us explain what goes viral and why, for example. In other words, social science demystifies fads, polarization, radicalization, institutional decay, and many other phenomena so we can use deductive methods like mathematics and simulation to explain the social dynamics that led to our current context, and predict which social outreach strategies could best promote adaptive organizations ready to meet today's challenges and increase our readiness for tomorrow's.
-
 
 # References
