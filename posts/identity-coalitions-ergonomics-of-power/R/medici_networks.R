@@ -162,4 +162,13 @@ plot_medici_network <- function(medici_network_csv = "data/medici_network.csv",
 }
 
 
-plot_medici_network(medici_network_csv = "posts/identity-coalitions-ergonomics-of-power/data/medici_network.csv", layout_csv = "posts/identity-coalitions-ergonomics-of-power/data/layout.csv", name_font_size = 2.65, edge_colors = edge_colors, line_width = 0.45, output_width = 7.15, output_height = 4, output_dim_units = "in", x_scale = 1.2, y_scale = 1.2, arrow_size = 1.5)
+plot_medici_network(medici_network_csv =
+                    "posts/identity-coalitions-ergonomics-of-power/data/medici_network.csv",
+                  layout_csv =
+                    "posts/identity-coalitions-ergonomics-of-power/data/layout.csv",
+                  name_font_size = 2.65, edge_colors = edge_colors, line_width
+                  = 0.45, output_width = 7.15, output_height = 4,
+                  output_dim_units = "in", x_scale = 1.2, y_scale = 1.2,
+                  arrow_size = 1.5
+, output_save_name = "medici_network.png"
+)
