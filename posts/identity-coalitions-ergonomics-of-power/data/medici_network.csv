@@ -52,7 +52,7 @@ Guasconi,Medici,marriage
 Fioravanti,Guadagni,marriage
 Guadagni,Bischeri,marriage
 Davanzati,Orlandini,marriage
-DallAntella,Ginori,marriage
+Dall'Antella,Ginori,marriage
 Ginori,Dietsavli,marriage
 Valori,Cocco-Donati,marriage
 DaUzzano,Guasconi,marriage
@@ -61,7 +61,7 @@ Rondinelli,Guasconi,marriage
 Castellani,Rondinelli,marriage
 Castellani,Pepi,marriage
 Castellani,Scambrilla,marriage
-Benizzi,Strozzi,marriage
+# Benizzi,Strozzi,marriage <- the Benizzi are only connected here, leaving them out for simplicity
 Guasconi,Strozzi,marriage
 Strozzi,Rucellai,marriage
 Strozzi,Panciatichi,marriage
@@ -72,6 +72,6 @@ Peruzzi,Panciatichi,marriage
 Peruzzi,DellaCasa,marriage
 Panciatichi,Albizzi,marriage
 DellaCasa,Albizzi,marriage
-Albizzi,Altoviti,marriage
+# Albizzi,Altoviti,marriage <- the Albizzi are only connected here, leaving them out for simplicity
 Albizzi,Peruzzi,marriage
 Albizzi,Guasconi,marriage
